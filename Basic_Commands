@@ -1,7 +1,12 @@
 created a repo in github
-1. git clone githuburls
+1. git clone githuburl
 Red  ---------------->Green ------------------> None(git status)
 Working Area -------> Stagging Area ---------> Local Repo ---------> remote Repo
              git add .             git commit -m"cm"       git push    
              git add fn
 
+Remote Repo ----------> Local Repo
+          if in case you are not having that repo exsisting in your Local 
+          1. git clone
+          if you are already having that repo 
+          1. git pull
