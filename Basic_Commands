@@ -2,7 +2,7 @@ created a repo in github
 1. git clone githuburl
 Red  ---------------->Green ------------------> None(git status)
 Working Area -------> Stagging Area ---------> Local Repo ---------> remote Repo
-             git add .             git commit -m"cm"       git push    
+             git add .             git commit -m "cm"       git push    
              git add fn
             ------------------------------------->
             git commit -am "cm"
@@ -15,3 +15,7 @@ Remote Repo ----------> Local Repo
 git configutaion of user name and email 
 git config --global user.name "RajeshJakka4"
 git config --global user.email "rajeshjakka4@gmail.com"
+
+Restore 
+if you remove the files that have created accidentaly or by mistaken, we will be using git restore command.
+1.git restore fn
