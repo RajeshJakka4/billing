@@ -12,3 +12,6 @@ Remote Repo ----------> Local Repo
           1. git clone
           if you are already having that repo 
           1. git pull
+git configutaion of user name and email 
+git config --global user.name "RajeshJakka4"
+git config --global user.email "rajeshjakka4@gmail.com"
