@@ -4,7 +4,9 @@ Red  ---------------->Green ------------------> None(git status)
 Working Area -------> Stagging Area ---------> Local Repo ---------> remote Repo
              git add .             git commit -m"cm"       git push    
              git add fn
-
+            ------------------------------------->
+            git commit -am "cm"
+            This Command only works with Modified files or already exsisting files and will not work with new files
 Remote Repo ----------> Local Repo
           if in case you are not having that repo exsisting in your Local 
           1. git clone
