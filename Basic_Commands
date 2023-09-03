@@ -19,3 +19,9 @@ git config --global user.email "rajeshjakka4@gmail.com"
 Restore 
 if you remove the files that have created accidentaly or by mistaken, we will be using git restore command.
 1.git restore fn
+
+
+Reset
+if the files are in stagging area and you need to get back these files to working area 
+then we will be using the Reset commmand
+1. git reset fn
