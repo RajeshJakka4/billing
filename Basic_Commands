@@ -31,3 +31,12 @@ we can use this command in multiple ways
 1. we check the difference between local repo and Remote after working
    make some chnages and check the difference between Local and Remote Repo
    cmd : git diff
+2. we can also check the difference between the branches
+   cmd: git diff bn bn
+
+
+branches
+creating a branch
+1. git branch bn
+checkout a branch
+1. git checkout bn
