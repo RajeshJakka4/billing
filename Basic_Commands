@@ -26,5 +26,8 @@ if the files are in stagging area and you need to get back these files to workin
 then we will be using the Reset commmand
 1. git reset fn
 
-
-hgsdgashjdgajhscjac xjhafgduy
+diff(difference)
+we can use this command in multiple ways
+1. we check the difference between local repo and Remote after working
+   make some chnages and check the difference between Local and Remote Repo
+   cmd : git diff
